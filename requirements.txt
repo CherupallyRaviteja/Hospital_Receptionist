@@ -1,0 +1,25 @@
+
+# Speech-to-Text
+faster-whisper==1.2.1
+
+# Voice Activity Detection
+silero-vad==6.2.3
+torch==2.15.0
+
+# Text-to-Speech
+piper-tts==1.8.0
+
+# LLM Integration
+groq==1.7.0
+
+# Audio Processing
+sounddevice==0.5.6
+numpy==2.5.5
+scipy==1.18.1
+
+# Environment Variables
+python-dotenv==1.2.4
+
+# Audio and System Dependencies
+onnxruntime==1.32.0
+pywin32==312

@@ -1,0 +1,120 @@
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment Variables and Secrets
+.env
+.env.*
+!.env.example
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Generated Audio Files
+*.wav
+*.mp3
+*.ogg
+*.flac
+*.raw
+
+# AI Voice Models
+*.onnx
+*.onnx.json
+*.pt
+*.pth
+*.bin
+
+# Model and Library Caches
+.cache/
+models/
+voices/
+
+# Logs
+*.log
+logs/
+
+# Temporary Files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Build and Distribution
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Code Runner Temporary Files
+tempCodeRunnerFile.py
+test.py
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Application memory / patient data
+content_memory.json
+ideal_memory.json
+
+# Audio recordings
+recording.wav
+*.mp3
+*.ogg
+
+# Piper TTS models
+*.onnx
+*.onnx.json
+
+# AI model caches
+.cache/
+models/
+models--*/
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python testing
+.pytest_cache/
+.coverage
+htmlcov/
